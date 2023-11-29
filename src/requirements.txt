@@ -5,5 +5,5 @@ Werkzeug>=2.0.0,<3.0.0
 nltk==3.8.1
 flask_cors==4.0.0
 filelock>=3.0.0,<4.0.0 
-torch==2.1.1 
+torch>=1.10.0,<1.11.0 
 numpy==1.26.2
