@@ -5,10 +5,5 @@ Werkzeug>=2.0.0,<3.0.0
 nltk==3.8.1
 flask_cors==4.0.0
 filelock>=3.0.0,<4.0.0 
-fsspec==2023.11.1
-mpmath==1.3.0 
-networkx==3.2.1 
-sympy==1.12 
 torch==2.1.1 
-typing-extensions==4.8.0
 numpy==1.26.2
