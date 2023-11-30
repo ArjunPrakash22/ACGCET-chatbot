@@ -154,27 +154,18 @@
       "what are the courses offered in your college?",
       "courses?",
       "courses offered",
-      "courses offered in (your univrsity(UNI) name)",
+      "courses offered in Alagappa Chettiar Government College of Engineering and Technology",
+      "courses offered in this college",
       "courses you offer",
       "branches?",
-      "courses available at UNI?",
+      "courses available at college?",
       "branches available at your college?",
-      "what are the courses in UNI?",
-      "what are branches in UNI?",
-      "what are courses in UNI?",
-      "branches available in UNI?",
-      "can you tell me the courses available in UNI?",
-      "can you tell me the branches available in UNI?",
-      "computer engineering?",
-      "computer",
-      "Computer engineering?",
-      "it",
-      "IT",
-      "Information Technology",
-      "AI/Ml",
-      "Mechanical engineering",
-      "Chemical engineering",
-      "Civil engineering"
+      "what are the courses in college?",
+      "what are branches in college?",
+      "what are courses in college?",
+      "branches available in college?",
+      "can you tell me the courses available in college?",
+      "can you tell me the branches available in college?"
    ],
    "responses": [
       "Our College offers Computer Science and Engineering, Mechanical engineering,Electrical and Electronics engineering, Civil engineering and Electronics and Communication Engineering."
@@ -364,7 +355,7 @@
       "college infrastructure"
    ],
    "responses": [
-      "Our University has Excellent Infrastructure. Campus is clean. Good Labs With Good Speed of Internet connection"
+      "Our College has Excellent Infrastructure. Campus is clean. Good Labs With Good Speed of Internet connection"
    ],
    "context_set": ""
 },
@@ -422,16 +413,104 @@
    ],
    "context_set": ""
 },
+{
+   "tag": "sciencehod",
+   "patterns": [
+      "who is science hod?",
+      "Who is science HOD",
+      "Where is first year HOD",
+      "science hod",
+      "name of first year hod",
+      "How many seats were available in science department or block",
+      "Who is first year block HOD",
+      "Where is first year HOD",
+      "science hod",
+      "name of science hod"
+
+   ],
+   "responses": [
+    "To know about Mechanical Engineering department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/under\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/v5jGKSUugQ9KbY148\">click here</a>"
+   ],
+   "context_set": ""
+},
  {
    "tag": "computerhod",
    "patterns": [
-      "Who is computer HOD",
+      "who is cse hod?",
+      "Who is computer science HOD",
       "Where is computer HOD",
       "computer hod",
-      "name of computer hod"
+      "name of computer hod",
+      "where is csedept",
+      "where is cse dept",
+      "How many seats were available in cse department"
+
    ],
    "responses": [
-    "To know about Computer Science department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/csedept\">here</a>"
+    "To know about Computer Science department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/csedept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/iRjF9LX1eyWfDMSs8\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "mechhod",
+   "patterns": [
+      "who is mech hod?",
+      "Who is mechanical science HOD",
+      "Where is mechanical HOD",
+      "mechanical hod",
+      "name of mechanical hod",
+      "How many seats were available in mechanical department",
+      "Who is mech HOD",
+      "Where is mech HOD",
+      "mechanical hod",
+      "name of mech hod",
+      "mech dept",
+      "mechdept",
+      "How many seats were available in mech department"
+
+   ],
+   "responses": [
+    "To know about Mechanical Engineering department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/under\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/v5jGKSUugQ9KbY148\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "civilhod",
+   "patterns": [
+      "who is civil hod?",
+      "Who is civil science HOD",
+      "Where is civil HOD",
+      "civil hod",
+      "name of civil hod",
+      "How many seats were available in civil department",
+      "Who is civil science HOD",
+      "Where is civil HOD",
+      "civil hod",
+      "name of civil hod",
+      "civil dept",
+      "cividept",
+      "How many seats were available in civil department"
+
+   ],
+   "responses": [
+    "To know about Civil Engineering department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/civildept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/Z3cSgWhVXwCHByxL9\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "eeehod",
+   "patterns": [
+      "who is eee hod?",
+      "Who is electrical and electronics engineering department HOD",
+      "Where is electrical and electronics engineering HOD",
+      "eee hod",
+      "name of electrical and electronics hod",
+      "How many seats were available in eee department",
+      "eeedept",
+      "eee dept"
+   ],
+   "responses": [
+    "To know about Electrical and Electronics Engineering (EEE) department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/eeedept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/8bvJjyN9JwiJLmdE9\">click here</a>"
    ],
    "context_set": ""
 },
@@ -439,12 +518,17 @@
    "tag": "ecehod",
    "patterns": [
       "Who is ece HOD",
+      "Who is Electronics and Communication Engineering hod?",
       "Where is  ece HOD",
       "ece hod",
-      "name of ece hod"
+      "name of ece hod",
+      "Where is ece department",
+      "Where is electronics and communication Engineering Department",
+      "ecedept",
+      "ece dept"
    ],
    "responses": [
-    "To know about ECE department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/ecedept\">here</a>"
+    "To know about Electronics andd Communication Engineering (ECE) department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/ecedept\">Click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/Kv9XLKfFCHnvTtPQ7\">Click here</a> "
    ],
    "context_set": ""
 },
@@ -460,7 +544,7 @@
       "name of principal"
    ],
    "responses": [
-    "To know about Principal and office visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/office\">here</a>"
+    "To know about Principal and office visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/office\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -480,7 +564,7 @@
       "when is semester"
    ],
    "responses": [
-      "Here is the Academic Calendar  <a class=\"chatlink\" target=\"_blank\" href=\"YOUR ACADEMIC CALENDER\">website</a>"
+      "Academic calender is given to you by your class-soordinators after you join your respective classes"
    ],
    "context_set": ""
 },
@@ -495,7 +579,7 @@
       "admission process"
    ],
    "responses": [
-      "Application can also be submitted online through the Unversity's  <a class=\"chatlink\" target=\"_blank\" href=\"https://www.tneaonline.org/\">website</a>"
+      "Application can be submitted online through TNEA  <a class=\"chatlink\" target=\"_blank\" href=\"https://www.tneaonline.org/\">click here</a>"
    ],
    "context_set": ""
 },
@@ -530,7 +614,7 @@
       "fourth year scholarship"
    ],
    "responses": [
-      "Many government scholarships are supported by our College. For details and updates visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/scholarship\">here</a>"
+      "Many government scholarships are supported by our College. For details and updates visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/scholarship\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -544,7 +628,7 @@
       "facilities provided"
    ],
    "responses": [
-      "Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen. For details and updates visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/life-at-acgcet\">here</a>"
+      "Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen. For details and updates visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/life-at-acgcet\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -562,7 +646,7 @@
       "seats"
    ],
    "responses": [
-      "For Ece, Cse, Civil, Mech and Eee 60 per branch and seat may be differ for different department."
+      "For Ece, Cse, Civil - 60 per branch and Mech and Eee - 120 per branch and seat may be differ for different department."
    ],
    "context_set": ""
 },
@@ -580,7 +664,7 @@
       "do we have to wear uniform"
    ],
    "responses": [
-      "None we have only lab uniform"
+      "No there will be lab uniform which should be wear on lab days"
    ],
    "context_set": ""
 },
@@ -588,6 +672,7 @@
    "tag": "committee",
    "patterns": [
       "what are the different committe in college",
+      "what are the different clubs in college",
       "different committee in college",
       "Are there any committee in college",
       "Give me committee details",
