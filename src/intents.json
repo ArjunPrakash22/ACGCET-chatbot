@@ -66,7 +66,32 @@
       "who designed you"
    ],
    "responses": [
-      "This site is developed and maintained by computer science and engineering students"
+      "This ACGCET-chatbot is developed and maintained by <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/scholarship\">Computer Science and Engineering Students</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "creator_site",
+   "patterns": [
+      "what is the name of your developers for this site",
+      "what is the name of your creators for this site",
+      "what is the name of the developers for this site",
+      "what is the name of the creators for this site",
+      "who created this website",
+      "your developers for this site",
+      "your creators for this website",
+      "who are your developers of this website",
+      "developers of this site",
+      "this site are made by",
+      "this site are made by whom",
+      "who created this website",
+      "who create this website",
+      "creators of this website",
+      "who made this website",
+      "who designed this website"
+   ],
+   "responses": [
+      "This ACGCET-website is developed and maintained by <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/scholarship\">Computer Science and Engineering Students</a>"
    ],
    "context_set": ""
 },
@@ -117,7 +142,7 @@
       "timing college"
    ],
    "responses": [
-      "College is open 9am-4:45pm Monday-Saturday!"
+      "College is open 9am-4:45pm Monday-Sunday!"
    ],
    "context_set": ""
 },
@@ -141,7 +166,7 @@
       "call"
    ],
    "responses": [
-      "You can contact at: "
+      "You can contact at: 04565 224528"
    ],
    "context_set": ""
 },
@@ -168,7 +193,7 @@
       "can you tell me the branches available in college?"
    ],
    "responses": [
-      "Our College offers Computer Science and Engineering, Mechanical engineering,Electrical and Electronics engineering, Civil engineering and Electronics and Communication Engineering."
+      "Our College offers Computer Science and Engineering, Mechanical engineering,Electrical and Electronics engineering, Civil engineering and Electronics and Communication Engineering. For more details<a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/programs\">Click here</a> "
    ],
    "context_set": ""
 },
@@ -248,7 +273,7 @@
       "distance between hostel and college"
    ],
    "responses": [
-      "For hostel detail visit <a class=\"chatlink\" target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+      "For hostel detail visit <a class=\"chatlink\" target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -268,7 +293,7 @@
       "what about events"
    ],
    "responses": [
-      "For event detail visit <a class=\"chatlink\" target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+      "For event detail visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -304,7 +329,7 @@
       "want to know about the entire campus"
    ],
    "responses": [
-    "To get info about campus visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/about-institution\"> here</a>"
+    "To get info about campus visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/about-institution\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -320,7 +345,7 @@
       "What is next lecture"
    ],
    "responses": [
-      "Timetable provide direct to the students OR To know about syllabus visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/under\"> here</a>"
+      "Timetable provide direct to the students"
    ],
    "context_set": ""
 },
@@ -343,7 +368,7 @@
       "how many libraries"
    ],
    "responses": [
-      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a class=\"chatlink\" target=\"blank\" href=\"https://accet.ac.in/under\">here</a>"
+      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a class=\"chatlink\" target=\"blank\" href=\"https://accet.ac.in/under\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -375,7 +400,7 @@
       "Cafetaria"
    ],
    "responses": [
-      "Our university has canteen with variety of food available"
+      "Our College has canteen with variety of food available"
    ],
    "context_set": ""
 },
@@ -409,7 +434,7 @@
       "companies"
    ],
    "responses": [
-      "To know about placement visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/under\">here</a>"
+      "To know about placement visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/under\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -429,7 +454,7 @@
 
    ],
    "responses": [
-    "To know about Mechanical Engineering department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/under\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/v5jGKSUugQ9KbY148\">click here</a>"
+    "To know about Science and humanities department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/sciencedept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/GQzeVbektew54dkF8\">click here</a>"
    ],
    "context_set": ""
 },
@@ -437,17 +462,20 @@
    "tag": "computerhod",
    "patterns": [
       "who is cse hod?",
-      "Who is computer science HOD",
+      "Who is computer science department HOD",
       "Where is computer HOD",
-      "computer hod",
-      "name of computer hod",
-      "where is csedept",
+      "cse hod",
+      "name of computer head of department",
+      "Where is computer head of department",
+      "cse head of department",
+      "name of computer head of department",
+      "where is cse dept",
       "where is cse dept",
       "How many seats were available in cse department"
 
    ],
    "responses": [
-    "To know about Computer Science department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/csedept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/iRjF9LX1eyWfDMSs8\">click here</a>"
+    "To know about Computer Science and Engineering department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/csedept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/iRjF9LX1eyWfDMSs8\">click here</a>"
    ],
    "context_set": ""
 },
@@ -460,10 +488,10 @@
       "mechanical hod",
       "name of mechanical hod",
       "How many seats were available in mechanical department",
-      "Who is mech HOD",
-      "Where is mech HOD",
-      "mechanical hod",
-      "name of mech hod",
+      "Who is mech head of the department",
+      "Where is mech head of the department",
+      "mechanical head of the department",
+      "name of mech head of the department",
       "mech dept",
       "mechdept",
       "How many seats were available in mech department"
@@ -483,10 +511,9 @@
       "civil hod",
       "name of civil hod",
       "How many seats were available in civil department",
-      "Who is civil science HOD",
-      "Where is civil HOD",
-      "civil hod",
-      "name of civil hod",
+      "Who is civil head of department",
+      "civil head of department",
+      "name of civil head of department",
       "civil dept",
       "cividept",
       "How many seats were available in civil department"
@@ -528,7 +555,7 @@
       "ece dept"
    ],
    "responses": [
-    "To know about Electronics andd Communication Engineering (ECE) department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/ecedept\">Click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/Kv9XLKfFCHnvTtPQ7\">Click here</a> "
+    "To know about Electronics and Communication Engineering (ECE) department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/ecedept\">Click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/Kv9XLKfFCHnvTtPQ7\">Click here</a> "
    ],
    "context_set": ""
 },
@@ -583,6 +610,139 @@
    ],
    "context_set": ""
 },
+{
+   "tag": "naac",
+   "patterns": [
+      "show me the NAAC accredition of this college",
+      "show me the ",
+      "Show me some naac accredition in your college",
+      "What is the naac accredition",
+      "NAAC"
+   ],
+   "responses": [
+      "College's NAAC accredition can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://drive.google.com/file/u/1/d/16mZkLmHrTUkolXDtJS8mQLO3GAcgXuhC/view?usp=sharing\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "IQAC",
+   "patterns": [
+      "show me the IQAC accredition of this college",
+      "show me the iqac",
+      "Show me some iqac accredition in your college",
+      "What is the IQAC accredition",
+      "IQAC"
+   ],
+   "responses": [
+      "College's IQAC accredition can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/iqac\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "NBA",
+   "patterns": [
+      "show me the NBA accredition of this college",
+      "show me the nba",
+      "Show me some NBA accredition in your college",
+      "What is the NBA accredition",
+      "NBA",
+      "nba"
+   ],
+   "responses": [
+      "College's NBA accredition can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/nba\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "NIRF",
+   "patterns": [
+      "show me the NIRF accredition of this college",
+      "show me the nirf",
+      "Show me some NIRF accredition in your college",
+      "What is the NIRF accredition",
+      "NIRF",
+      "nirf"
+   ],
+   "responses": [
+      "College's NIRF accredition can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/nirf\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "Annual Reports",
+   "patterns": [
+      "show me the Annual Reports in this college",
+      "show me the Annual Reports",
+      "Show me some Annual Reports in your college",
+      "What are the Annual Reports",
+      "Annual Reports",
+      "annual reports"
+   ],
+   "responses": [
+      "College's Annual Reports can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/annual_reports\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "TEQIP 1",
+   "patterns": [
+      "show me the TEQIP 1 details of this college",
+      "show me the TEQIP 1 details",
+      "Show me some TEQIP 1 details held in your college",
+      "What are the TEQIP 1 details",
+      "TEQIP 1 details",
+      "teqip 1 details"
+   ],
+   "responses": [
+      "College's TEQIP 1 details can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/teqip1\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "TEQIP 2",
+   "patterns": [
+      "show me the TEQIP 2 details of this college",
+      "show me the TEQIP 2 details",
+      "Show me some TEQIP 2 details held in your college",
+      "What are the TEQIP 2 details",
+      "TEQIP 2 details",
+      "TEQIP 2 details"
+   ],
+   "responses": [
+      "College's TEQIP 2 details can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/teqip2\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "TEQIP 3",
+   "patterns": [
+      "show me the TEQIP 3 details of this college",
+      "show me the TEQIP 3 details",
+      "Show me some TEQIP 3 details held in your college",
+      "What are the TEQIP 3 details",
+      "TEQIP 3 details",
+      "TEQIP 3 details"
+   ],
+   "responses": [
+      "College's TEQIP 3 details can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/teqip3\">click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "Innovation and Startup policies",
+   "patterns": [
+      "show me innovation policies of this college",
+      "show me the innovation and startup policies of this college",
+      "Show me the policies in this college",
+      "What are the innovation and startup policies",
+      "Innovation and Startup Policies",
+      "ISP"
+   ],
+   "responses": [
+      "College's Innovation and Startup Policies can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/iic\">click here</a>"
+   ],
+   "context_set": ""
+},
  {
    "tag": "scholarship",
    "patterns": [
@@ -602,12 +762,6 @@
       "scholarship for civil engineering",
       "scholarship for chemical engineering",
       "list of scholarship",
-      "comps scholarship",
-      "IT scholarship",
-      "mechanical scholarship",
-      "civil scholarship",
-      "chemical scholarship",
-      "automobile scholarship",
       "first year scholarship",
       "second year scholarship",
       "third year scholarship",
@@ -628,7 +782,7 @@
       "facilities provided"
    ],
    "responses": [
-      "Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen. For details and updates visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/life-at-acgcet\">Click here</a>"
+      "Our College's department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen. For details and updates visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/life-at-acgcet\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -646,7 +800,7 @@
       "seats"
    ],
    "responses": [
-      "For Ece, Cse, Civil - 60 per branch and Mech and Eee - 120 per branch and seat may be differ for different department."
+      "For Ece, Cse, Civil - 60 per branch and Mech and Eee - 120 per branch and seat may be differ for different department.For more details<a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/programs\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -664,7 +818,7 @@
       "do we have to wear uniform"
    ],
    "responses": [
-      "No there will be lab uniform which should be wear on lab days"
+      "No there will be lab uniform which should be wear only on lab days"
    ],
    "context_set": ""
 },
@@ -672,15 +826,30 @@
    "tag": "committee",
    "patterns": [
       "what are the different committe in college",
-      "what are the different clubs in college",
       "different committee in college",
       "Are there any committee in college",
       "Give me committee details",
       "committee",
-      "how many committee are there in college"
+      "how many committee are in college"
    ],
    "responses": [
-    "For committee and clubs info visit  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/clubs\">Clubs</a>"
+    "For committee info visit  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/committee\">Click here</a>"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "clubs",
+   "patterns": [
+      "what are the different club in college",
+      "what are the different clubs in college",
+      "different club in college",
+      "Are there any clube in college",
+      "Give me club details",
+      "clube",
+      "how many clubs are there in college"
+   ],
+   "responses": [
+    "For club info visit  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/clubs\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -748,7 +917,7 @@
       "please provide sports and games information"
    ],
    "responses": [
-      "Our College encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a class=\"chatlink\" target=\"_blank\" href=/\"https://accet.ac.in/under\">here</a>"
+      "Our College encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a class=\"chatlink\" target=\"_blank\" href=/\"https://accet.ac.in/under\">Click here</a>"
    ],
    "context_set": ""
 },

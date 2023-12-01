@@ -26,7 +26,7 @@ model = NeuralNet(input_size, hidden_size, output_size)
 model.load_state_dict(model_state)
 model.eval()
 
-bot_name = "Acgcet-bot"
+bot_name = "A-Assist"
 
 # @app.route('/')
 # def home():
