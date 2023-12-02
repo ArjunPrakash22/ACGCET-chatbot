@@ -66,7 +66,7 @@
       "who designed you"
    ],
    "responses": [
-      "This ACGCET-chatbot is developed and maintained by <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/scholarship\">Computer Science and Engineering Students</a>"
+      "This ACGCET-chatbot is developed and maintained by <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/webdev-team\">Computer Science and Engineering Students</a>"
    ],
    "context_set": ""
 },
@@ -91,7 +91,7 @@
       "who designed this website"
    ],
    "responses": [
-      "This ACGCET-website is developed and maintained by <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/scholarship\">Computer Science and Engineering Students</a>"
+      "This ACGCET-website is developed and maintained by <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/webdev-team\">Computer Science and Engineering Students</a>"
    ],
    "context_set": ""
 },
