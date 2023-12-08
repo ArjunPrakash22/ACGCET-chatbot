@@ -66,7 +66,7 @@
       "who designed you"
    ],
    "responses": [
-      "This ACGCET-chatbot is developed and maintained by <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/webdev-team\">Computer Science and Engineering Students</a>"
+      "This ACGCET-chatbot is developed and maintained by <a class=\"chatlink\" href=\"https://accet.ac.in/webdev-team\">Computer Science and Engineering Students</a>"
    ],
    "context_set": ""
 },
@@ -91,7 +91,7 @@
       "who designed this website"
    ],
    "responses": [
-      "This ACGCET-website is developed and maintained by <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/webdev-team\">Computer Science and Engineering Students</a>"
+      "This ACGCET-website is developed and maintained by <a class=\"chatlink\" href=\"https://accet.ac.in/webdev-team\">Computer Science and Engineering Students</a>"
    ],
    "context_set": ""
 },
@@ -142,7 +142,7 @@
       "timing college"
    ],
    "responses": [
-      "College is open 9am-4:45pm Monday-Sunday!"
+      "College is open 9am-4:45pm Monday-Friday!"
    ],
    "context_set": ""
 },
@@ -193,7 +193,7 @@
       "can you tell me the branches available in college?"
    ],
    "responses": [
-      "Our College offers Computer Science and Engineering, Mechanical engineering,Electrical and Electronics engineering, Civil engineering and Electronics and Communication Engineering. For more details<a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/programs\">Click here</a> "
+      "Our College offers Computer Science and Engineering, Mechanical engineering,Electrical and Electronics engineering, Civil engineering and Electronics and Communication Engineering. For more details<a class=\"chatlink\" href=\"https://accet.ac.in/programs\">Click here</a> "
    ],
    "context_set": ""
 },
@@ -219,7 +219,7 @@
       "hostel fees"
    ],
    "responses": [
-      "For Fee detail visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/fee-structure\"> here</a>"
+      "For Fee detail visit <a class=\"chatlink\" href=\"https://accet.ac.in/fee-structure\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -242,7 +242,7 @@
       "location"
    ],
    "responses": [
-      "<a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/weeKH1hWuPjZcKPX8\"> here</a>"
+      "To know about the location of this college <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/weeKH1hWuPjZcKPX8\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -293,7 +293,7 @@
       "what about events"
    ],
    "responses": [
-      "For event detail visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/\">Click here</a>"
+      "For event detail visit <a class=\"chatlink\" href=\"https://accet.ac.in/\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -315,7 +315,7 @@
       "documents needed"
    ],
    "responses": [
-      "To know more about document required visit <a class=\"chatlink\" target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\"> here</a>"
+      "To know more about document required visit <a class=\"chatlink\" target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -329,7 +329,7 @@
       "want to know about the entire campus"
    ],
    "responses": [
-    "To get info about campus visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/about-institution\">Click here</a>"
+    "To get info about campus visit <a class=\"chatlink\" href=\"https://accet.ac.in/about-institution\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -368,7 +368,7 @@
       "how many libraries"
    ],
    "responses": [
-      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a class=\"chatlink\" target=\"blank\" href=\"https://accet.ac.in/under\">Click here</a>"
+      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a class=\"chatlink\" href=\"https://accet.ac.in/under\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -434,7 +434,7 @@
       "companies"
    ],
    "responses": [
-      "To know about placement visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/under\">Click here</a>"
+      "To know about placement visit <a class=\"chatlink\" href=\"https://accet.ac.in/under\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -454,7 +454,7 @@
 
    ],
    "responses": [
-    "To know about Science and humanities department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/sciencedept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/GQzeVbektew54dkF8\">click here</a>"
+    "To know about Science and humanities department visit <a class=\"chatlink\" href=\"https://accet.ac.in/sciencedept\">click here</a> or locate us at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/GQzeVbektew54dkF8\">click here</a>"
    ],
    "context_set": ""
 },
@@ -475,7 +475,7 @@
 
    ],
    "responses": [
-    "To know about Computer Science and Engineering department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/csedept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/iRjF9LX1eyWfDMSs8\">click here</a>"
+    "To know about Computer Science and Engineering department visit <a class=\"chatlink\" href=\"https://accet.ac.in/csedept\">click here</a> or locate us at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/iRjF9LX1eyWfDMSs8\">click here</a>"
    ],
    "context_set": ""
 },
@@ -498,7 +498,7 @@
 
    ],
    "responses": [
-    "To know about Mechanical Engineering department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/under\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/v5jGKSUugQ9KbY148\">click here</a>"
+    "To know about Mechanical Engineering department visit <a class=\"chatlink\" href=\"https://accet.ac.in/under\">click here</a> or locate us at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/v5jGKSUugQ9KbY148\">click here</a>"
    ],
    "context_set": ""
 },
@@ -520,7 +520,7 @@
 
    ],
    "responses": [
-    "To know about Civil Engineering department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/civildept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/Z3cSgWhVXwCHByxL9\">click here</a>"
+    "To know about Civil Engineering department visit <a class=\"chatlink\" href=\"https://accet.ac.in/civildept\">click here</a> or locate us at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/Z3cSgWhVXwCHByxL9\">click here</a>"
    ],
    "context_set": ""
 },
@@ -537,7 +537,7 @@
       "eee dept"
    ],
    "responses": [
-    "To know about Electrical and Electronics Engineering (EEE) department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/eeedept\">click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/8bvJjyN9JwiJLmdE9\">click here</a>"
+    "To know about Electrical and Electronics Engineering (EEE) department visit <a class=\"chatlink\" href=\"https://accet.ac.in/eeedept\">click here</a> or locate us at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/8bvJjyN9JwiJLmdE9\">click here</a>"
    ],
    "context_set": ""
 },
@@ -555,7 +555,7 @@
       "ece dept"
    ],
    "responses": [
-    "To know about Electronics and Communication Engineering (ECE) department visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/ecedept\">Click here</a> or at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/Kv9XLKfFCHnvTtPQ7\">Click here</a> "
+    "To know about Electronics and Communication Engineering (ECE) department visit <a class=\"chatlink\" href=\"https://accet.ac.in/ecedept\">Click here</a> or locate us at <a class=\"chatlink\" target=\"_blank\" href=\"https://maps.app.goo.gl/Kv9XLKfFCHnvTtPQ7\">Click here</a> "
    ],
    "context_set": ""
 },
@@ -571,7 +571,7 @@
       "name of principal"
    ],
    "responses": [
-    "To know about Principal and office visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/office\">Click here</a>"
+    "To know about Principal and office visit <a class=\"chatlink\" href=\"https://accet.ac.in/office\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -606,7 +606,7 @@
       "admission process"
    ],
    "responses": [
-      "Application can be submitted online through TNEA  <a class=\"chatlink\" target=\"_blank\" href=\"https://www.tneaonline.org/\">click here</a>"
+      "Application can be submitted online through TNEA  <a class=\"chatlink\" href=\"https://www.tneaonline.org/\">click here</a>"
    ],
    "context_set": ""
 },
@@ -634,7 +634,7 @@
       "IQAC"
    ],
    "responses": [
-      "College's IQAC accredition can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/iqac\">click here</a>"
+      "College's IQAC accredition can be visit at  <a class=\"chatlink\" href=\"https://accet.ac.in/iqac\">click here</a>"
    ],
    "context_set": ""
 },
@@ -649,7 +649,7 @@
       "nba"
    ],
    "responses": [
-      "College's NBA accredition can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/nba\">click here</a>"
+      "College's NBA accredition can be visit at  <a class=\"chatlink\" href=\"https://accet.ac.in/nba\">click here</a>"
    ],
    "context_set": ""
 },
@@ -664,7 +664,7 @@
       "nirf"
    ],
    "responses": [
-      "College's NIRF accredition can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/nirf\">click here</a>"
+      "College's NIRF accredition can be visit at  <a class=\"chatlink\" href=\"https://accet.ac.in/nirf\">click here</a>"
    ],
    "context_set": ""
 },
@@ -679,7 +679,7 @@
       "annual reports"
    ],
    "responses": [
-      "College's Annual Reports can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/annual_reports\">click here</a>"
+      "College's Annual Reports can be visit at  <a class=\"chatlink\" href=\"https://accet.ac.in/annual_reports\">click here</a>"
    ],
    "context_set": ""
 },
@@ -694,7 +694,7 @@
       "teqip 1 details"
    ],
    "responses": [
-      "College's TEQIP 1 details can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/teqip1\">click here</a>"
+      "College's TEQIP 1 details can be visit at  <a class=\"chatlink\" href=\"https://accet.ac.in/teqip1\">click here</a>"
    ],
    "context_set": ""
 },
@@ -709,7 +709,7 @@
       "TEQIP 2 details"
    ],
    "responses": [
-      "College's TEQIP 2 details can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/teqip2\">click here</a>"
+      "College's TEQIP 2 details can be visit at  <a class=\"chatlink\" href=\"https://accet.ac.in/teqip2\">click here</a>"
    ],
    "context_set": ""
 },
@@ -724,7 +724,7 @@
       "TEQIP 3 details"
    ],
    "responses": [
-      "College's TEQIP 3 details can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/teqip3\">click here</a>"
+      "College's TEQIP 3 details can be visit at  <a class=\"chatlink\" href=\"https://accet.ac.in/teqip3\">click here</a>"
    ],
    "context_set": ""
 },
@@ -739,7 +739,7 @@
       "ISP"
    ],
    "responses": [
-      "College's Innovation and Startup Policies can be visit at  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/iic\">click here</a>"
+      "College's Innovation and Startup Policies can be visit at  <a class=\"chatlink\" href=\"https://accet.ac.in/iic\">click here</a>"
    ],
    "context_set": ""
 },
@@ -768,7 +768,7 @@
       "fourth year scholarship"
    ],
    "responses": [
-      "Many government scholarships are supported by our College. For details and updates visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/scholarship\">Click here</a>"
+      "Many government scholarships are supported by our College. For details and updates visit <a class=\"chatlink\" href=\"https://accet.ac.in/scholarship\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -782,7 +782,7 @@
       "facilities provided"
    ],
    "responses": [
-      "Our College's department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen. For details and updates visit <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/life-at-acgcet\">Click here</a>"
+      "Our College's department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen. For details and updates visit <a class=\"chatlink\" href=\"https://accet.ac.in/life-at-acgcet\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -800,7 +800,7 @@
       "seats"
    ],
    "responses": [
-      "For Ece, Cse, Civil - 60 per branch and Mech and Eee - 120 per branch and seat may be differ for different department.For more details<a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/programs\">Click here</a>"
+      "For Ece, Cse, Civil - 60 per branch and Mech and Eee - 120 per branch and seat may be differ for different department.For more details<a class=\"chatlink\" href=\"https://accet.ac.in/programs\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -833,7 +833,7 @@
       "how many committee are in college"
    ],
    "responses": [
-    "For committee info visit  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/committee\">Click here</a>"
+    "For committee info visit  <a class=\"chatlink\" href=\"https://accet.ac.in/committee\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -849,7 +849,7 @@
       "how many clubs are there in college"
    ],
    "responses": [
-    "For club info visit  <a class=\"chatlink\" target=\"_blank\" href=\"https://accet.ac.in/clubs\">Click here</a>"
+    "For club info visit  <a class=\"chatlink\" href=\"https://accet.ac.in/clubs\">Click here</a>"
    ],
    "context_set": ""
 },
@@ -917,7 +917,7 @@
       "please provide sports and games information"
    ],
    "responses": [
-      "Our College encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a class=\"chatlink\" target=\"_blank\" href=/\"https://accet.ac.in/under\">Click here</a>"
+      "Our College encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a class=\"chatlink\" href=/\"https://accet.ac.in/under\">Click here</a>"
    ],
    "context_set": ""
 },
